@@ -1,0 +1,67 @@
+[
+  {
+    "slot": "ETH-1",
+    "projectName": "Kinsman",
+    "chain": "ethereum",
+    "active": false,
+    "mintType": "seadrop",
+    "contractAddress": "0x2bdd001e3491f640711c06e7908ba7e015fb31f4",
+    "feeRecipient": "0x0000a26b00c1F0DF003000390027140000fAa719",
+    "mintPrice": "0.0025",
+    "quantity": 1,
+    "maxPriorityGwei": 2,
+    "maxFeeGwei": 25
+  },
+  {
+    "slot": "ETH-2",
+    "projectName": "Compas",
+    "chain": "ethereum",
+    "active": true,
+    "mintType": "seadrop",
+    "contractAddress": "0x757135cf1a2bc2450ce06eee8be532f500ea6fce",
+    "feeRecipient": "0x0000a26b00c1F0DF003000390027140000fAa719",
+    "mintPrice": "0",
+    "quantity": 1,
+    "maxPriorityGwei": 2,
+    "maxFeeGwei": 25
+  },
+  {
+    "slot": "ETH-3",
+    "projectName": "REPLACE_ME",
+    "chain": "ethereum",
+    "active": false,
+    "mintType": "seadrop",
+    "contractAddress": "0xREPLACE_ME",
+    "feeRecipient": "0xREPLACE_ME",
+    "mintPrice": "0.00",
+    "quantity": 1,
+    "maxPriorityGwei": 2,
+    "maxFeeGwei": 25
+  },
+  {
+    "slot": "RH-1",
+    "projectName": "TestCollection",
+    "chain": "robinhood",
+    "active": false,
+    "mintType": "seadrop",
+    "contractAddress": "0xa8e55ae05c5c7a83b5441c4a14cc4813a6976c92",
+    "feeRecipient": "0x0000a26b00c1F0DF003000390027140000fAa719",
+    "mintPrice": "0.001",
+    "quantity": 1,
+    "maxPriorityGwei": 0.1,
+    "maxFeeGwei": 3
+  },
+  {
+    "slot": "RH-2",
+    "projectName": "REPLACE_ME",
+    "chain": "robinhood",
+    "active": false,
+    "mintType": "seadrop",
+    "contractAddress": "0xREPLACE_ME",
+    "feeRecipient": "0xREPLACE_ME",
+    "mintPrice": "0.00",
+    "quantity": 1,
+    "maxPriorityGwei": 0.1,
+    "maxFeeGwei": 3
+  }
+]
